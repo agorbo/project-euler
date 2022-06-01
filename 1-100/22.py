@@ -10,7 +10,4 @@ with open("22_input.txt") as file:
         print(name, name_score)
         total_score += name_score
 
-        if name == "COLIN":
-            a = 1
-
     print(total_score)
